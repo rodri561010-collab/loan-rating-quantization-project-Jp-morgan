@@ -16,7 +16,7 @@ The generated ratings are validated using borrowers' observed probability of def
 
 # 📉 Probability of Default by Rating
 
-![Probability of Default by Rating](./images/Probability off Default by Rating.png)
+![Probability of Default by Rating](./images/probability_default.png)
 
 ---
 
