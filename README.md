@@ -10,21 +10,19 @@ The generated ratings are validated using borrowers' observed probability of def
 
 # 📊 FICO Score Distribution
 
-<p align="center">
-<img src="images/fico_distribution.png" width="750">
-</p>
+![FICO Score Distribution](./images/fico_distribution.png)>
 
 ---
 
 # 📉 Probability of Default by Rating
 
-<p align="center">
-<img src="images/default_rate_by_rating.png" width="700">
-</p>
+![Probability of Default by Rating](./images/default_rate_by_rating.png)
 
 ---
 
 # 📋 Rating Map
+
+![Rating Map](./images/FICO-table.png)
 
 | Rating | FICO Range | Probability of Default |
 |---------|------------|-----------------------:|
